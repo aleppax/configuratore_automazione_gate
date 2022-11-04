@@ -16,7 +16,7 @@
    migliori prestazioni dal motore. Permette(rà) di quantificare e presentare graficamente
    il rendimento, la velocità e la ottimizzazione di una particolare condizione di
    staffaggio.
-   @author <a href="mailto:alessandro@proteco.net">Alessandro Proglio</a>
+   @author <a href="mailto:ale.proglio@gmail.com">Alessandro Proglio</a>
    @version 0.3 alpha release - febbraio 2017
  */
  
